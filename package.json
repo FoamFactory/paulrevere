@@ -1,5 +1,5 @@
 {
-  "name": "paulrevere",
+  "name": "@foamfactory/paulrevere",
   "version": "1.0.0",
   "description": "A simple messaging library providing toast and snackbar functionality for web applications",
   "main": "lib/index.js",
