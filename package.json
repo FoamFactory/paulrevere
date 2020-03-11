@@ -10,6 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "UNLICENSED",
+  "repository": "git://github.com/foamfactory/paulrevere.git",
   "dependencies": {
     "jquery": "^3.4.1"
   },
@@ -22,5 +23,9 @@
     "chai": "^4.2.0",
     "mocha": "^6.2.2",
     "nodemon": "^1.19.4"
+  },
+
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   }
 }
