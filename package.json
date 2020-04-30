@@ -12,7 +12,7 @@
   "license": "UNLICENSED",
   "repository": "git://github.com/foamfactory/paulrevere.git",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.4",
